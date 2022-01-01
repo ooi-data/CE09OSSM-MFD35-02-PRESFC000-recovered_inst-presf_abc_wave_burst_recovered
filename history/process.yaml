@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSSM-MFD35-02-PRESFC000-recovered_inst-presf_abc_wave_burst_recovered
 data_stream: CE09OSSM-MFD35-02-PRESFC000-recovered_inst-presf_abc_wave_burst_recovered
 end_date: '2021-09-14T10:30:02.000Z'
-last_updated: '2021-12-22T03:08:07.265619'
+last_updated: '2022-01-01T17:52:10.798217Z'
 start_date: '2015-04-09T22:30:02.000Z'
-status: success
+status: pending
